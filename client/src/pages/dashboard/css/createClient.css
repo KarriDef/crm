@@ -1,0 +1,11 @@
+
+.wrapperForm{
+    padding: 25px;
+}
+.holderForm{
+    padding: 25px;
+    background: white;
+}
+form .input-field{
+    padding: 0 10px !important;
+}

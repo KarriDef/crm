@@ -1,0 +1,16 @@
+.tabs .tab{
+    background: transparent;
+}
+.tabs .tab a, .tabs .tab a:focus{
+    background-color: transparent !important;
+    color: black !important;
+}
+.tabs .indicator{
+    background: #1890ff !important;
+}
+.contacts-table button, .contacts-table button:hover, .contacts-table button:focus{
+    background: none;
+    box-shadow: none;
+    color: #1890ff;
+    padding: 0 5px !important;
+}

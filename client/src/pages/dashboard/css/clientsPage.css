@@ -1,0 +1,43 @@
+body{
+    background: #f0f2f5;
+}
+.mainRow{
+ margin: 0;
+}
+.mainRow .col{
+    padding: 0;
+}
+.bc{
+    margin: 0 !important;
+}
+.bc .col{
+    padding: 0 10px;
+}
+.tableWrapper{
+    padding: 25px;
+}
+.tableWrapper .tableHolder{
+    border-radius: 10px;
+    padding: 20px;
+    background: white;
+}
+.tableWrapper table thead{
+    background: #f8f8f9;
+}
+.filter-row, .filter-row .input-field, .filter-row input{
+    margin: 0 !important;
+}
+.filter-row{
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+}
+.filter-row button, .filter-row button:hover, .filter-row button:focus{
+    background: none;
+    box-shadow: none;
+}
+.filter-row button i{
+    color: black;
+}

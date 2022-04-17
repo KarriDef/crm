@@ -1,0 +1,13 @@
+.sidenav{
+    position: static !important;
+    height: 100vh;
+    width: auto;
+}
+.active-nav{
+    background-color: #e4f5fe !important;
+    color: #1890ff !important;
+    border-right: 2px solid #1890ff;
+}
+.sidenav .active{
+    background: none !important;
+}

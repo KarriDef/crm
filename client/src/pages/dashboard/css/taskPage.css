@@ -1,0 +1,26 @@
+#modal-edit-task{
+    overflow: visible;
+}
+.react-datetime-picker{
+    z-index: 9999;
+}
+.react-datetime-picker input[name="year"]{
+    margin-right: 10px !important;
+}
+.react-datetime-picker input{
+    border: none !important;
+    padding: 0 5px 0 0 !important;
+    margin: 0 !important;
+    height: initial !important;
+}
+.react-datetime-picker button:focus{
+    background: none;
+}
+.react-datetime-picker__inputGroup__leadingZero{
+    color: black !important;
+    font-size: initial !important;
+}
+
+.react-datetime-picker__inputGroup__divider{
+    display: none !important;
+}
